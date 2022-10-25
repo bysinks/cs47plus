@@ -5,3 +5,4 @@ x86 x64无需配置启动上线正常
 360核晶以及其他修改处目前测试没发现bug但应该有
 
 密码 H2SfqTIxK1/bNBEDgDyEZbCejtIgF1AnyZchOF4Yl3AF12iXg8Ey6T9OmFHYy2BH
+落霞与孤鹜齐飞，秋水共长天一色。
